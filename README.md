@@ -25,7 +25,7 @@ _Questions and concerns can be sent to kelly.eidsvik@gmail.com_
 
 ## Technologies Used
 
-_HTML and Git_
+_HTML, VSCode, and Git_
 
 ### License
 
